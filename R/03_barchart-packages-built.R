@@ -1,3 +1,10 @@
+#' ---
+#' output: github_document
+#' ---
+
+library(here)
+library(tidyverse)
+
 ## remember to restart R here!
 
 ## make a barchart from the frequency table in data/add-on-packages-freqtable.csv
